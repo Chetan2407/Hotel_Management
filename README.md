@@ -1,2 +1,2 @@
-# Hotel_Management
+# Oasis_infobyte
 python project 
